@@ -40,7 +40,7 @@ body {
     width: 500px;
     height: 300px;
     padding: 20px;
-    padding-bottom: 5px;
+    padding-bottom: 0px;
 }
 
 .main table {
